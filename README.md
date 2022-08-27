@@ -2,7 +2,7 @@
 
 ## Description
 
-- The motivation for this project was to increase my understanding of backend development.
+- The motivation for this project was to increase my understanding of back-end development.
 - I built this project to further grasp the information behind the scenes of a website.
 - This project solves testing data from a back end perspective.
 - I learned a great deal about using insomnia and testing back end programs.
