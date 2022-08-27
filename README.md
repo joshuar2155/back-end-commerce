@@ -2,20 +2,15 @@
 
 ## Description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- The motivation for this project was to increase my understanding of backend development.
+- I built this project to further grasp the information behind the scenes of a website.
+- This project solves testing data from a back end perspective.
+- I learned a great deal about using insomnia and testing back end programs.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+![This is a screenshot of the app insomnia](/images/image.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
@@ -46,3 +41,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Links
+
+https://drive.google.com/file/d/1fq57iJ3VGPeQu2Dig1OGD2R7hV55cKwH/view
+
+https://github.com/joshuar2155/back-end-commerce
